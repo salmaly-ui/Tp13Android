@@ -1,5 +1,4 @@
 
-
 Application Android qui permet de suivre votre position GPS et de l'enregistrer sur un serveur.
 
 ## Prérequis
@@ -16,3 +15,7 @@ Application Android qui permet de suivre votre position GPS et de l'enregistrer 
 <img width="1080" height="2340" alt="Screenshot_20260510_111041" src="https://github.com/user-attachments/assets/bac1b51d-c7c4-40b4-bb50-ba3a2ce3a2eb" />
 <img width="1080" height="2340" alt="Screenshot_20260510_111047" src="https://github.com/user-attachments/assets/489f7761-a07e-43b1-be56-3c735d57e6b8" />
 <img width="1080" height="2340" alt="Screenshot_20260510_111052" src="https://github.com/user-attachments/assets/2e7684bf-cda8-46de-88b2-de4d3dea85b9" />
+
+
+## Auteur
+Salma Laouy
