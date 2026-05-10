@@ -1,4 +1,4 @@
-<img width="1080" height="2340" alt="Screenshot_20260510_111028" src="https://github.com/user-attachments/assets/b3779d72-2a94-4f0e-87bd-fcc595fb4a92" /># LocationTracker - Application de Cartographie
+
 
 Application Android qui permet de suivre votre position GPS et de l'enregistrer sur un serveur.
 
